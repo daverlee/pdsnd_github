@@ -4,7 +4,7 @@
 This project was created on 1/19/2025.
 
 ### Project Title
-Replace the Project Title
+This project is to demonstrate work in Git.
 
 ### Description
 Describe what your project is about and what it does
