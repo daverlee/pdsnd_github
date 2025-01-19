@@ -1,4 +1,4 @@
-#provide files for git to ignore
+#provide files from project work
 .github/**
 bikeshare.py
 chicago.csv
