@@ -4,10 +4,10 @@
 This project was created on 1/19/2025.
 
 ### Project Title
-This project is to demonstrate work in Git.
+Git - the Project
 
 ### Description
-Describe what your project is about and what it does
+This project is to demonstrate work in Git.
 
 ### Files used
 Include the files used
