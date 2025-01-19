@@ -4,14 +4,18 @@
 This project was created on 1/19/2025.
 
 ### Project Title
-Git - the Project
+BikeShare Data Science Intro
 
 ### Description
-This project is to demonstrate work in Git.
+This project is to demonstrate introductory data science knowledge using python
+
+
 
 ### Files used
-Files used are bikeshare.py, chicago.cvs, washington.csv and 
+Files used are bikeshare.py.  
+ref.py was also used for refactoring 
+Data files used, but not loaded to Github are: chicago.cvs, washington.csv and 
 new_york_city.csv
 
 ### Credits
-Origional repo for this is https://github.com/udacity/pdsnd_github
+Origional  repo for this is https://github.com/udacity/pdsnd_github
